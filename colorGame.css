@@ -1,11 +1,12 @@
 body {
   background-color: #232323;
+  color: white;
 }
 
 .square {
   width: 30%;
   padding-bottom: 30%;
-  background: purple;
+  background-color: purple;
   float: left;
   margin: 1.66%;
 }
