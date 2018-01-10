@@ -58,6 +58,8 @@ resetButton.addEventListener("click", function() {
   }
 
   h1.style.backgroundColor = "steelblue";
+  messageDisplay.textContent = "";
+  this.textContent = "New Colors";
 });
 
 for(var i = 0; i < squares.length; i++) {
